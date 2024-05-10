@@ -21,7 +21,7 @@ repository               : "tomassoltinsky/tomassoltinsky.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "park_guell.jpeg"
+  avatar           : "park_guell.jpg"
   name             : "Tomáš"
   pronouns         : # example: "she/her"  
   bio              : "Astrophysicist"
