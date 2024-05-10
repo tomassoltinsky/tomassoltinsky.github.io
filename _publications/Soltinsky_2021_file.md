@@ -3,10 +3,10 @@ title: "The detectability of strong 21-cm forest absorbers from the diffuse inte
 collection: publications
 permalink: /publication/Soltinsky_2021_file
 excerpt: 'First author'
-date: 2021-10-10
+date: 2021
 venue: 'MNRAS'
 paperurl: 'http://tomassoltinsky.github.io/files/Soltinsky_2021.pdf'
 citation: 
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A late end to reionization at redshift z ≃ 5.3 is consistent with observed spatial variations in the Ly α forest transmission and the deficit of Ly α emitting galaxies around extended Ly α absorption troughs at z = 5.5. In this model, large islands of neutral hydrogen should persist in the diffuse intergalactic medium (IGM) until z ≃ 6. We use a novel, hybrid approach that combines high-resolution cosmological hydrodynamical simulations with radiative transfer to predict the incidence of strong 21-cm forest absorbers with optical depths τ21 > 10-2 from the diffuse IGM in these late reionization models. We include the effect of redshift space distortions on the simulated 21-cm forest spectra, and treat the highly uncertain heating of the pre-reionization IGM by soft X-rays as a free parameter. For a model with only modest IGM pre-heating, such that average gas kinetic temperatures in the diffuse IGM remain below  $T_{\rm K}\simeq10^2\rm K$ , we find that strong 21-cm forest absorption lines should persist until z = 6. For a sample of ~10 sufficiently radio-loud background sources, a null-detection of 21-cm forest absorbers at z ≃ 6 with SKA1-low or possibly LOFAR should provide an informative lower limit on the still largely unconstrained soft X-ray background at high redshift and the temperature of the pre-reionization IGM.
