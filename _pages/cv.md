@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Can be found <a href="tomassoltinsky.github.io/files/CV_postdoc_TS.pdf" target="_blank">PDF.</a>
+Can be found <a href="tomassoltinsky.github.io/files/CV_postdoc_TS.pdf" target="_blank">here.</a>
