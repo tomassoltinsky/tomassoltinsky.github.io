@@ -3,6 +3,7 @@ layout: archive
 title: "My CV"
 permalink: /cv/
 author_profile: true
+paperurl: 'http://tomassoltinsky.github.io/files/CV_postdoc_TS.pdf'
 redirect_from:
   - /resume
 ---
