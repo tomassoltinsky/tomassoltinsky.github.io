@@ -1,7 +1,7 @@
 ---
 title: "Probing quasar lifetimes with proximate 21-centimetre absorption in the diffuse intergalactic medium at redshifts z ≥ 6"
 collection: publications
-permalink: /publication/Soltinsky_2023
+permalink: /publication/Soltinsky_2023_file
 excerpt: 'First author'
 date: 2023-10-10
 venue: 'MNRAS'
