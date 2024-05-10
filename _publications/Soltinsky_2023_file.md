@@ -2,7 +2,8 @@
 title: "The detectability of strong 21-cm forest absorbers from the diffuse intergalactic medium in late reionization models"
 collection: publications
 permalink: /publication/Soltinsky_2023_file
-date: 2021
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2021-10-10
 venue: 'MNRAS'
 paperurl: 'http://tomassoltinsky.github.io/files/Soltinsky_2021.pdf'
 citation: 'First author'
