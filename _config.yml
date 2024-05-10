@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Tomáš Šoltinský"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tomáš Šoltinský"
 description              : &description "personal description"
 url                      : https://tomassoltinsky.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,10 +21,10 @@ repository               : "tomassoltinsky/tomassoltinsky.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "park_guell.jpeg"
+  name             : "Tomáš"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Astrophysicist"
   location         : "Mumbai, India"
   employer         : "Tata Institute of Fundamental Research"
   uri              : # URL
@@ -32,22 +32,23 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "http://orcid.org/0000-0001-7703-8929"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  nasaads          : "https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22%C5%A0oltinsk%C3%BD%2C%20Tom%C3%A1%C5%A1%22&sort=date%20desc%2C%20bibcode%20desc"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "tomassoltinsky"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
