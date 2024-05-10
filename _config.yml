@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tomáš Šoltinský"
+title                    : "Tomáš Šoltinskýýý"
 title_separator          : "-"
 name                     : &name "Tomáš Šoltinský"
 description              : &description "personal description"
@@ -121,7 +121,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
