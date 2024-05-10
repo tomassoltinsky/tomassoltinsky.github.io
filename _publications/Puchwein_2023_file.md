@@ -3,7 +3,7 @@ title: "The Sherwood-Relics simulations: overview and impact of patchy reionizat
 collection: publications
 permalink: /publication/Puchwein_2023_file
 excerpt: 'Contributing author'
-date: 2023-10-10
+date: 2023-10-11
 venue: 'MNRAS'
 paperurl: 'http://tomassoltinsky.github.io/files/Puchwein_2023.pdf'
 citation: 
