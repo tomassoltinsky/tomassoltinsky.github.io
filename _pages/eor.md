@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Epoch of Reionization data"
-permalink: /EoR/
+permalink: /eor/
 author_profile: true
 redirect_from:
 
