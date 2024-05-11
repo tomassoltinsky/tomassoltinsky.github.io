@@ -2,7 +2,7 @@
 title: "The Sherwood-Relics simulations: overview and impact of patchy reionization and pressure smoothing on the intergalactic medium"
 collection: publications
 permalink: /publication/Puchwein_2023_file
-excerpt: 'Contributing author'
+excerpt: 'Contributing author, [ads](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.6162P/abstract){:target="_blank" rel="noopener"}'
 date: 2023-10-11
 venue: 'MNRAS'
 paperurl: 'http://tomassoltinsky.github.io/files/Puchwein_2023.pdf'
