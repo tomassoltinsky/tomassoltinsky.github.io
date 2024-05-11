@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img align="right" src="/images/gph_outreachtalk.png" alt="My Image" width="510" height="250">
+<img align="right" src="/images/gph_outreachtalk.png" alt="My Image" width="500" height="250">
 
 Besides the talks about my research to the audience from the astronomical community, I gave various outreach talks at my former high school - Gymnázium Pavla Horova in Michalovce, Slovakia. For example, one of the talks was titled "From LA to LA" in which I described my trajectory from my home village Lastomír (which we nickname LA) to study abroad program at Caltech in Los Angeles. I have shared my experience from this study abroad program at the University of Edinburgh when I became a student ambassador. This also led to me representing the University of Edinburgh at the parliamentary reception at Westminster.
 
