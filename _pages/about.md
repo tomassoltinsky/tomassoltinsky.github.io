@@ -19,4 +19,4 @@ Image credit: Ewald Puchwein/Leibniz-Institut für Astrophysik.
 
 <img align="left" src="/images/hunka.jpg" alt="My Image" width="160" height="260">
 
-I am also a proud owner of Huňka (Fluffy in English) who you can see on left, huge fan of movies, I enjoy food, both cooking and eating, and travelling (to places where I can try different food).
+I am also a proud owner of Huňka (Fluffy in English) which you can see on the left, huge fan of movies, I enjoy food, both cooking and eating, and travelling (to places where I can try different food).
