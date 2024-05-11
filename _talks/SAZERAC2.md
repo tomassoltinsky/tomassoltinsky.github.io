@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/SAZERAC2
 venue: "SAZERAC 2.0"
-date: 2021-06-12
+date: 2021-06-14
 location: ""
 ---
 
