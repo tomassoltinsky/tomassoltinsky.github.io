@@ -16,3 +16,7 @@ My research revolves around the Epoch of Reionization - a period of time after t
 ![sherwood_IGM_down](/images/sherwood_igm_down.png)
 
 Image credit: Ewald Puchwein/Leibniz-Institut für Astrophysik.
+
+<img align="left" src="/images/hunka.png" alt="My Image" width="322" height="523">
+
+I am also a proud owner of Huňka (Fluffy in English) who you can see on left, huge fan of movies, I enjoy food, both cooking and eating, and travelling (to places where I can try different food).
