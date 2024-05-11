@@ -10,4 +10,5 @@ location: "National Institute of Science Education and Research, Bhubaneswar, In
 
 [![21ADV](/images/21ADV.png)](https://www.youtube.com/live/JKWWAn9cJbQ?si=6KM7W5w18kgL_70V&t=182)
 
+The second lecture can be found [here](https://www.youtube.com/live/s_4s_oTbIxc?si=79u4jFga0wFq0XVV&t=49).
 School and workshop website can be found [here](https://www.niser.ac.in/events/adv21cm/).
