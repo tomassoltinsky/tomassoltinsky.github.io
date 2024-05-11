@@ -14,3 +14,5 @@ I am a postdoctoral fellow in the field of Astrophysics/Cosmology at the [Tata I
 My research revolves around the Epoch of Reionization - a period of time after the first ever stars and galaxies formed and illuminated universe changing its evolution. I do this by modelling the 21-cm signal, which is a signature of the most abundant element in the universe - Hydrogen. I use this signal to explore the Intergalactic medium (material between the galaxies, large scale structures) and supermassive black holes. I am a member of the [Sherwood-relics simulation suite](https://www.nottingham.ac.uk/astronomy/sherwood-relics/) team who develops cosmological simulations which I use to model the 21-cm signal. If you are interested in more details (and nice animations), please check my [research page](https://tomassoltinsky.github.io//research/).
 
 ![sherwood_IGM_down](/images/sherwood_igm_down.png)
+
+Image credit: Ewald Puchwein/Leibniz-Institut für Astrophysik.
