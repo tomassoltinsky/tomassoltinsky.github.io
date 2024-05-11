@@ -12,5 +12,8 @@ main:
   - title: "Outreach"
     url: /outreach/    
 
+  - title: "EoR"
+    url: /eor/  
+
   - title: "CV"
     url: /cv/
