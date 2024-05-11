@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Epoch of Reionization data"
+title: ""
 permalink: /eor/
 author_profile: true
 redirect_from:
