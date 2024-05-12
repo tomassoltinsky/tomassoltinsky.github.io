@@ -1,5 +1,5 @@
 ---
-title: "Probing quasar lifetimes with proximate 21-centimetre absorption in the diffuse intergalactic medium at redshifts $$z\geq6$$"
+title: "Probing quasar lifetimes with proximate 21-centimetre absorption in the diffuse intergalactic medium at redshifts z≥6"
 collection: publications
 permalink: /publication/Soltinsky_2023_file
 excerpt: 'First author, [ads](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3027S/abstract){:target="_blank" rel="noopener"}'
