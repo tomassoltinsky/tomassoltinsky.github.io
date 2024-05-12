@@ -11,7 +11,7 @@ redirect_from:
 
 Here you can find compilations of observational data from the Epoch of Reionization
 
-## Radio-loud quasars at /(math exp/)z>5.5/(math exp/)
+## Radio-loud quasars at $$z>5.5$$
 
 | Quasar name | $z$  | $S_{147}/\rm mJy$ | $\alpha_{\rm R}$ | Reference |
 | ----------- | ---- | ----------------- | ---------------- | --------- |
