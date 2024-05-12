@@ -37,7 +37,7 @@ author:
   orcid            : "http://orcid.org/0000-0001-7703-8929"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  adsabs           : "https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22%C5%A0oltinsk%C3%BD%2C%20Tom%C3%A1%C5%A1%22&sort=date%20desc%2C%20bibcode%20desc"
+  ads           : "https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22%C5%A0oltinsk%C3%BD%2C%20Tom%C3%A1%C5%A1%22&sort=date%20desc%2C%20bibcode%20desc"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
