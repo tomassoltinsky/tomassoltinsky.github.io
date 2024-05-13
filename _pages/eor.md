@@ -11,9 +11,9 @@ redirect_from:
 
 Here you can find compilations of observational data from the Epoch of Reionization
 
-<img align="right" src="/images/RLQSO_zdist.png" alt="My Image" width="200" height="200">
-
 ## Radio-loud quasars at $$z>5.5$$
+
+<img align="right" src="/images/RLQSO_zdist.png" alt="My Image" width="400" height="400">
 
 | Quasar name | $$z$$  | $$S_{147}/\rm mJy$$ | $$\alpha_{\rm R}$$ | Reference |
 | ----------- | ---- | ----------------- | ---------------- | --------- |
