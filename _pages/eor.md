@@ -25,7 +25,7 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 </p>
 
 **Left:** Redshift distribution of $$z>5.5$$ radio-loud quasars. <br/>
-**Right:** Temperature evolution at mean density for different X-ray background radiation efficiency, $$f_{\rm X}$$, and comparison with observational data (listed in the table below). The computation of this is described in the Appendix B of [Šoltinský et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.5818S/abstract). Hence, if you find this useful, please consider citing this paper. 
+**Right:** Temperature evolution at mean density for different X-ray background radiation efficiency, $$f_{\rm X}$$, and comparison with observational data (listed below). The computation of this is described in the Appendix B of [Šoltinský et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.5818S/abstract). Hence, if you find this useful, please consider citing this paper. 
 
 ## Temperature measurements at $$z\geq5$$
 
