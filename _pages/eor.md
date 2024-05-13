@@ -20,4 +20,10 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 
 <img src="/images/RLQSO_zdist.png" alt="My Image" width="400" height="400"> <img src="/images/T_evo.png" alt="My Image" width="400" height="400">
 
+<p align="center">
+  <img alt="RLQSO_zdist" src="/images/RLQSO_zdist.png" width="45%">
+&nbsp; 
+  <img alt="T_evo" src="/images/T_evo.png" width="45%">
+</p>
+
 Figure: 
