@@ -18,6 +18,6 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | COS-87259   | 6.83 | 0.475             | -0.86            | [Endsley et al. 2022](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4609E/abstract) |
 | PSO J172+18 | 6.82 | $$<8.5$$          | -1.31            | [Bañados et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...909...80B/abstract) |
 
-<img src="/images/RLQSO_zdist.png" alt="My Image" width="500" height="500"> <img src="/images/T_evo.png" alt="My Image" width="500" height="500">
+<img src="/images/RLQSO_zdist.png" alt="My Image" width="400" height="400"> <img src="/images/T_evo.png" alt="My Image" width="400" height="400">
 
 Figure: 
