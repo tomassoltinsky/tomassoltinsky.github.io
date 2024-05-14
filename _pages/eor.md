@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here you can find compilations of observational data from the Epoch of Reionization
+Here you can find compilations of observational data from the Epoch of Reionization.
 
 ## Radio-loud quasars at $$z>5.5$$
 
@@ -52,7 +52,7 @@ Here you can find compilations of observational data from the Epoch of Reionizat
   <img alt="T_evo" src="/images/T_evo.png" width="45%">
 </p>
 
-**Left:** Redshift distribution of $$z>5.5$$ radio-loud quasars. All of these radio-loud quasars and some information about them (name, redshift, intrinsic flux density at $$147\,\rm MHz$$, spectral index between $$1.4\,\rm GHz$$ and $$147\,\rm MHz$$, references) are listed int he table above. An excel spreadsheet containing this information can be downloaded <a href="https://tomassoltinsky.github.io/datasets/radio_sources.xlsx" target="_blank">here</a>. <br/>
+**Left:** Redshift distribution of $$z>5.5$$ radio-loud quasars. All of these radio-loud quasars and some information about them (name, redshift, intrinsic flux density at $$147\,\rm MHz$$, spectral index between $$1.4\,\rm GHz$$ and $$147\,\rm MHz$$, references) are listed in the table above. An excel spreadsheet containing this information can be downloaded <a href="https://tomassoltinsky.github.io/datasets/radio_sources.xlsx" target="_blank">here</a>. <br/>
 **Right:** Temperature evolution at mean density for different X-ray background radiation efficiency, $$f_{\rm X}$$, and comparison with observational data (listed below). The computation of this is described in the Appendix B of [Šoltinský et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.5818S/abstract){:target="_blank" rel="noopener"}. Hence, if you find this useful, please consider citing this paper. 
 
 ## Temperature measurements at $$z\geq5$$
