@@ -71,9 +71,9 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | $$5.8\pm0.1$$ |	$$12000\pm2200$$ | | Ly$$\alpha$$ transmission spikes | [Gaikwad et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5091G/abstract){:target="_blank" rel="noopener"} |
 | $$5.6\pm0.1$$ |	$$10500\pm2100$$ | | Ly$$\alpha$$ transmission spikes | [Gaikwad et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5091G/abstract){:target="_blank" rel="noopener"} |
 | $$5.4\pm0.1$$ |	$$11000\pm1600$$ | | Ly$$\alpha$$ transmission spikes | [Gaikwad et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5091G/abstract){:target="_blank" rel="noopener"} |
-| 5.0	|	$$7370\pm{+1670}_{-1390}$$ | | Ly$$\alpha$$ forest power spectrum | [Boera et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..101B/abstract){:target="_blank" rel="noopener"} |
-| 5.4	|	$$5990\pm{+1520}_{-1340}$$ | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
-| 5.0	| $$5330\pm{+1220}_{-910}$$  | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
+| 5.0	|	$$7370^{+1670}_{-1390}$$ | | Ly$$\alpha$$ forest power spectrum | [Boera et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..101B/abstract){:target="_blank" rel="noopener"} |
+| 5.4	|	$$5990^{+1520}_{-1340}$$ | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
+| 5.0	| $$5330^{+1220}_{-910}$$  | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
 | $$6.08\pm0.33$$ |	$$5888^{+824}_{-1060}$$ | | Ly$$\alpha$$ absorption lines | [Bolton et al. 2012](https://ui.adsabs.harvard.edu/abs/2012MNRAS.419.2880B/abstract){:target="_blank" rel="noopener"} |
 
 
