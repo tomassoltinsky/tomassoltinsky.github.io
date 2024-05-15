@@ -57,23 +57,23 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 
 ## Temperature measurements at $$z\geq5$$
 
-| $$z$$ | $$T(\rm gas kinetic)/\rm K$$ | $$T(\rm spin)/\rm K$$ | Method | Reference |
+| $$z$$ | $$T(\rm gas\, kinetic)/\rm K$$ | $$T(\rm spin)/\rm K$$ | Method | Reference |
 | ----- | ---------------------------- | --------------------- | -------| --------- |
-| 10.4 | $$3.2-313.2$$   | $$4.7-171.2$$  | 21-cm power spectrum | [HERA 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..124H/abstract){:target="_blank" rel="noopener"} |
-| 7.9	 | $$13.0-4768.0$$ | $$15.6-656.7$$	| 21-cm power spectrum | [HERA 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..124H/abstract){:target="_blank" rel="noopener"} |
-| 9.1	|	| $$>2.6$$ | 21-cm power spectrum | [Greig et al. 2021a](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501....1G/abstract){:target="_blank" rel="noopener"} |
-| 8.7	|	| $$>2.4$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
-| 8.2	|	| $$>2.1$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
-| 7.8	| | $$>1.8$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
-| 7.1	|	| $$>1.5$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
-| 6.8	|	| $$>1.4$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
-| 6.5	|	| $$>1.3$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| $$10.4$$ | $$3.2-313.2$$   | $$4.7-171.2$$  | 21-cm power spectrum | [HERA 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..124H/abstract){:target="_blank" rel="noopener"} |
+| $$7.9$$ | $$13.0-4768.0$$ | $$15.6-656.7$$	| 21-cm power spectrum | [HERA 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..124H/abstract){:target="_blank" rel="noopener"} |
+| $$9.1$$	|	| $$>2.6$$ | 21-cm power spectrum | [Greig et al. 2021a](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501....1G/abstract){:target="_blank" rel="noopener"} |
+| $$8.7$$	|	| $$>2.4$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| $$8.2$$	|	| $$>2.1$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| $$7.8$$	| | $$>1.8$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| $$7.1$$	|	| $$>1.5$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| $$6.8$$	|	| $$>1.4$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| $$6.5$$	|	| $$>1.3$$ | 21-cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
 | $$5.8\pm0.1$$ |	$$12000\pm2200$$ | | Ly$$\alpha$$ transmission spikes | [Gaikwad et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5091G/abstract){:target="_blank" rel="noopener"} |
 | $$5.6\pm0.1$$ |	$$10500\pm2100$$ | | Ly$$\alpha$$ transmission spikes | [Gaikwad et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5091G/abstract){:target="_blank" rel="noopener"} |
 | $$5.4\pm0.1$$ |	$$11000\pm1600$$ | | Ly$$\alpha$$ transmission spikes | [Gaikwad et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5091G/abstract){:target="_blank" rel="noopener"} |
-| 5.0	|	$$7370^{+1670}_{-1390}$$ | | Ly$$\alpha$$ forest power spectrum | [Boera et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..101B/abstract){:target="_blank" rel="noopener"} |
-| 5.4	|	$$5990^{+1520}_{-1340}$$ | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
-| 5.0	| $$5330^{+1220}_{-910}$$  | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
+| $$5.0$$	|	$$7370^{+1670}_{-1390}$$ | | Ly$$\alpha$$ forest power spectrum | [Boera et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..101B/abstract){:target="_blank" rel="noopener"} |
+| $$5.4$$	|	$$5990^{+1520}_{-1340}$$ | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
+| $$5.0$$	| $$5330^{+1220}_{-910}$$  | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
 | $$6.08\pm0.33$$ |	$$5888^{+824}_{-1060}$$ | | Ly$$\alpha$$ absorption lines | [Bolton et al. 2012](https://ui.adsabs.harvard.edu/abs/2012MNRAS.419.2880B/abstract){:target="_blank" rel="noopener"} |
 
 
