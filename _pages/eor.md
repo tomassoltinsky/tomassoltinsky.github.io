@@ -52,14 +52,32 @@ Here you can find compilations of observational data from the Epoch of Reionizat
   <img alt="T_evo" src="/images/T_evo.png" width="45%">
 </p>
 
-**Left:** Redshift distribution of $$z>5.5$$ radio-loud quasars. All of these radio-loud quasars and some information about them (name, redshift, intrinsic flux density at $$147\,\rm MHz$$, spectral index between $$1.4\,\rm GHz$$ and $$147\,\rm MHz$$, references) are listed in the table above. An excel spreadsheet containing this information can be downloaded <a href="https://tomassoltinsky.github.io/datasets/radio_sources.xlsx" target="_blank">here</a>. <br/>
-**Right:** Temperature evolution at mean density for different X-ray background radiation efficiency, $$f_{\rm X}$$, and comparison with observational data (listed below). The computation of this is described in the Appendix B of [Šoltinský et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.5818S/abstract){:target="_blank" rel="noopener"}. Hence, if you find this useful, please consider citing this paper. 
+**Left:** Redshift distribution of $$z>5.5$$ radio-loud quasars. All of these radio-loud quasars and some information about them (name, redshift, intrinsic flux density at $$147\,\rm MHz$$, spectral index between $$1.4\,\rm GHz$$ and $$147\,\rm MHz$$, references) are listed in the table above. An excel spreadsheet containing this information can be downloaded <a href="https://tomassoltinsky.github.io/datasets/radio_sources_EoR.xlsx" target="_blank">here</a>. <br/>
+**Right:** Temperature evolution at mean density for different X-ray background radiation efficiency, $$f_{\rm X}$$, and comparison with observational data (listed below, excel spreadsheet <a href="https://tomassoltinsky.github.io/datasets/temperature_EoR.xlsx" target="_blank">here</a>). The computation of this is described in the Appendix B of [Šoltinský et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.5818S/abstract){:target="_blank" rel="noopener"}. Hence, if you find this useful, please consider citing this paper. 
 
 ## Temperature measurements at $$z\geq5$$
 
-| $$z$$ | $$T(\rm gas kinetic)/\rm K$$ | $$T(\rm spin)/\rm K$$ | Reference |
-| ----- | ---------------------------- | --------------------- | --------- |
-|       |                              |                       |           |
+| $$z$$ | $$T(\rm gas kinetic)/\rm K$$ | $$T(\rm spin)/\rm K$$ | Method | Reference |
+| ----- | ---------------------------- | --------------------- | -------| --------- |
+| 10.4 | $$3.2-313.2$$   | $$4.7-171.2$$  | 21cm power spectrum | [HERA 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..124H/abstract){:target="_blank" rel="noopener"} |
+| 7.9	 | $$13.0-4768.0$$ | $$15.6-656.7$$	| 21cm power spectrum | [HERA 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..124H/abstract){:target="_blank" rel="noopener"} |
+| 9.1	|	| $$>2.6$$ | 21cm power spectrum | [Greig et al. 2021a](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501....1G/abstract){:target="_blank" rel="noopener"} |
+| 8.7	|	| $$>2.4$$ | 21cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| 8.2	|	| $$>2.1$$ | 21cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| 7.8	| | $$>1.8$$ | 21cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| 7.1	|	| $$>1.5$$ | 21cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| 6.8	|	| $$>1.4$$ | 21cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| 6.5	|	| $$>1.3$$ | 21cm power spectrum | [Greig et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5322G/abstract){:target="_blank" rel="noopener"} |
+| $$5.8\pm0.1$$ |	$$12000\pm2200$$ | | Ly$$\alpha$$ transmission spikes | [Gaikwad et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5091G/abstract){:target="_blank" rel="noopener"} |
+| $$5.6\pm0.1$$ |	$$10500\pm2100$$ | | Ly$$\alpha$$ transmission spikes | [Gaikwad et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5091G/abstract){:target="_blank" rel="noopener"} |
+| $$5.4\pm0.1$$ |	$$11000\pm1600$$ | | Ly$$\alpha$$ transmission spikes | [Gaikwad et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5091G/abstract){:target="_blank" rel="noopener"} |
+| 5.0	|	$$7370\pm{+1670}_{-1390}$$ | | Ly$$\alpha$$ forest power spectrum | [Boera et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..101B/abstract){:target="_blank" rel="noopener"} |
+| 5.4	|	$$5990\pm{+1520}_{-1340}$$ | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
+| 5.0	| $$5330\pm{+1220}_{-910}$$  | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
+| $$6.08\pm0.33$$ |	$$5888^{+824}_{-1060}$$ | | Ly$$\alpha$$ absorption lines | [Bolton et al. 2012](https://ui.adsabs.harvard.edu/abs/2012MNRAS.419.2880B/abstract){:target="_blank" rel="noopener"} |
+
+
+
 
 If you know about any data that would be appropriate to add here, please do not hesitate to let me know! Thank you!
 
