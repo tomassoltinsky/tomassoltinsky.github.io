@@ -80,16 +80,16 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 
 | $$z$$ | $$x_{\rm HI}$$ | Method | Reference |
 | ----- | -------------- | ------ | --------- |
-| $$6.55\pm0.05$$ | $$>0.18$$	            |	Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
-| $$6.35\pm0.05$$ | $$0.29^{+0.14}_{-0.13}$$ |	Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
-| $$6.15\pm0.05$$ | $$0.20^{+0.14}_{-0.12}$$ |	Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
-| $$6.05\pm0.05$$ | $$>0.21$$              |	Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
-| $$5.95\pm0.05$$ | $$>0.20$$	            | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
-| $$5.90\pm0.05$$ | $$>0.21$$	            | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
-| $$6.30$$ | $$>0.15$$              |	Damping wing in GRB | [Fausey et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240313126F/abstract){:target="_blank" rel="noopener"} |
-| $$6.87$$ | $$0.37\pm0.17$$        |	Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
-| $$6.46$$ | $$0.21^{+0.33}_{-0.07}$$ |	Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
-| $$6.10$$ | $$0.21^{+0.17}_{-0.07}$$ |	Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
+| $$6.55\pm0.05$$ | $$<0.18$$	               | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
+| $$6.35\pm0.05$$ | $$0.29^{+0.14}_{-0.13}$$ | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
+| $$6.15\pm0.05$$ | $$0.20^{+0.14}_{-0.12}$$ | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
+| $$6.05\pm0.05$$ | $$<0.21$$                | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
+| $$5.95\pm0.05$$ | $$<0.20$$	               | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
+| $$5.90\pm0.05$$ | $$<0.21$$	               | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
+| $$6.30$$ | $$\lesssim0.15$$                | Damping wing in GRB | [Fausey et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240313126F/abstract){:target="_blank" rel="noopener"} |
+| $$6.87$$ | $$0.37\pm0.17$$                 | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
+| $$6.46$$ | $$0.21^{+0.33}_{-0.07}$$        | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
+| $$6.10$$ | $$0.21^{+0.17}_{-0.07}$$        | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
 | $$6.00\pm0.05$$ | $$0.17^{+0.09}_{-0.11}$$ | CDF of Ly$$\alpha$$ eff opt depth | [Gaikwad et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4093G/abstract){:target="_blank" rel="noopener"} |
 | $$5.90\pm0.05$$ | $$0.13^{+0.13}_{-0.07}$$ | CDF of Ly$$\alpha$$ eff opt depth | [Gaikwad et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4093G/abstract){:target="_blank" rel="noopener"} |
 | $$5.80\pm0.05$$ | $$0.94^{+0.62}_{-0.64}\times10^{-1}$$ | CDF of Ly$$\alpha$$ eff opt depth | [Gaikwad et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4093G/abstract){:target="_blank" rel="noopener"} |
@@ -106,10 +106,10 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | $$7.45^{+0.10}_{-0.25}$$ | $$0.54^{+0.32}_{-0.36}$$ | Damping wing | [Umeda et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230600487U/abstract){:target="_blank" rel="noopener"} |
 | $$7.14^{+0.04}_{-0.08}$$ | $$0.46^{+0.36}_{-0.32}$$ | Damping wing | [Umeda et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230600487U/abstract){:target="_blank" rel="noopener"} |
 | $$10.6$$ | $$<0.88$$ | Ly$$\alpha$$ emitting galaxies | [Bruton et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...949L..40B/abstract){:target="_blank" rel="noopener"} |
-| $$6.70$$ | $$>0.94\pm0.06$$ |	Dark pixel fraction | [Jin et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...59J/abstract){:target="_blank" rel="noopener"} |
-| $$6.50$$ | $$>0.87\pm0.03$$ |	Dark pixel fraction | [Jin et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...59J/abstract){:target="_blank" rel="noopener"} |
-| $$6.30$$ | $$>0.79\pm0.04$$ |	Dark pixel fraction	| [Jin et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...59J/abstract){:target="_blank" rel="noopener"} |
-| $$6.90$$ | $$>0.33$$ | Ly$$\alpha$$ emitting galaxies | [Wold et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...36W/abstract){:target="_blank" rel="noopener"} |
+| $$6.70$$ | $$<0.94\pm0.06$$ |	Dark pixel fraction | [Jin et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...59J/abstract){:target="_blank" rel="noopener"} |
+| $$6.50$$ | $$<0.87\pm0.03$$ |	Dark pixel fraction | [Jin et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...59J/abstract){:target="_blank" rel="noopener"} |
+| $$6.30$$ | $$<0.79\pm0.04$$ |	Dark pixel fraction	| [Jin et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...59J/abstract){:target="_blank" rel="noopener"} |
+| $$6.90$$ | $$<0.33$$ | Ly$$\alpha$$ emitting galaxies | [Wold et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...36W/abstract){:target="_blank" rel="noopener"} |
 | $$7.29$$ | $$0.49\pm0.11$$  | Damping wing | [Greig et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5390G/abstract){:target="_blank" rel="noopener"} |
 | $$7.60\pm0.6$$ | $$0.83^{+0.08}_{-0.11}$$         | Lyman break galaxies | [Bolan et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.3263B/abstract){:target="_blank" rel="noopener"} |
 | $$6.70\pm0.2$$ | $$<0.25$$ | Lyman break galaxies |	[Bolan et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.3263B/abstract){:target="_blank" rel="noopener"} |
@@ -124,7 +124,7 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | $$7.54$$ | $$0.56^{+0.21}_{-0.18}$$**            | Damping wing |	[Bañados et al. 2018](https://ui.adsabs.harvard.edu/abs/2018Natur.553..473B/abstract){:target="_blank" rel="noopener"} |
 | $$7.54$$ | $$0.60^{+0.20,+0.36}_{-0.23,-0.45}$$* | Damping wing |	[Davies et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...864..142D/abstract){:target="_blank" rel="noopener"} |
 | $$7.09$$ | $$0.48^{+0.26,+0.47}_{-0.26,-0.46}$$* | Damping wing |	[Davies et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...864..142D/abstract){:target="_blank" rel="noopener"} |
-| $$7.00$$ | $$0.59^{+0.11}_{-0.15}                | Ly$$\alpha$$ emitting galaxies | [Mason et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...856....2M/abstract){:target="_blank" rel="noopener"} |
+| $$7.00$$ | $$0.59^{+0.11}_{-0.15}$$              | Ly$$\alpha$$ emitting galaxies | [Mason et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...856....2M/abstract){:target="_blank" rel="noopener"} |
 | $$7.08$$ | $$0.40^{+0.21,+0.41}_{-0.19,-0.32}$$* | Damping wing |	[Greig et al. 2017](https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.4239G/abstract){:target="_blank" rel="noopener"} |
 | $$5.90$$ | $$<0.06$$ | Dark gaps | [McGreer et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447..499M/abstract){:target="_blank" rel="noopener"} |
 | $$5.60$$ | $$<0.04$$ | Dark gaps | [McGreer et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447..499M/abstract){:target="_blank" rel="noopener"} |
