@@ -76,7 +76,7 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | $$5.0$$	| $$5330^{+1220}_{-910}$$  | | Ly$$\alpha$$ forest power spectrum | [Walther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...13W/abstract){:target="_blank" rel="noopener"} |
 | $$6.08\pm0.33$$ |	$$5888^{+824}_{-1060}$$ | | Ly$$\alpha$$ absorption lines | [Bolton et al. 2012](https://ui.adsabs.harvard.edu/abs/2012MNRAS.419.2880B/abstract){:target="_blank" rel="noopener"} |
 
-## Neutral Hydrogen fraction at $$z\geq5$$
+## Neutral Hydrogen fraction measurements at $$z\geq5$$
 
 | $$z$$ | $$x_{\rm HI}$$ | Method | Reference |
 | ----- | -------------- | ------ | --------- |
