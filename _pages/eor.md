@@ -86,7 +86,7 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | $$6.05\pm0.05$$ | $$<0.21$$                | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
 | $$5.95\pm0.05$$ | $$<0.20$$	               | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
 | $$5.90\pm0.05$$ | $$<0.21$$	               | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
-| $$6.30$$ | $$\lesssim0.15$$                | Damping wing in GRB | [Fausey et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240313126F/abstract){:target="_blank" rel="noopener"} |
+| $$6.30$$ | $$<0.15$$                | Damping wing in GRB | [Fausey et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240313126F/abstract){:target="_blank" rel="noopener"} |
 | $$6.87$$ | $$0.37\pm0.17$$                 | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
 | $$6.46$$ | $$0.21^{+0.33}_{-0.07}$$        | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
 | $$6.10$$ | $$0.21^{+0.17}_{-0.07}$$        | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
