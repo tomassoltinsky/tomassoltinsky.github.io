@@ -130,8 +130,8 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | $$5.60$$ | $$<0.04$$ | Dark gaps | [McGreer et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447..499M/abstract){:target="_blank" rel="noopener"} |
 
 The uncertainties come from the 68th percentiles. However there are some exceptions: <br/>
-* the first uncertainty comes from the 68th percentile while the second value comes from the 95th percentile. <br/>
-** the uncertainty comes from the 95th percentile. <br/>
+$$*$$ the first uncertainty comes from the 68th percentile while the second value comes from the 95th percentile. <br/>
+$$**$$ the uncertainty comes from the 95th percentile. <br/>
 The excel file containing this data can be accessed <a href="https://tomassoltinsky.github.io/datasets/xHI_EoR.xlsx" target="_blank">here</a>.
 
 
