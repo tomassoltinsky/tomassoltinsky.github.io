@@ -7,7 +7,7 @@ redirect_from:
 
 ---
 
-Epoch of Reionization and Cosmic Dawn, 21-cm cosmology, Ly$$\alpha$$ forest, cosmological simulations, <\br>
+Epoch of Reionization and Cosmic Dawn, 21-cm cosmology, Ly$$\alpha$$ forest, cosmological simulations, <br/>
 intergalactic medium, supermassive black holes
 
 {% include base_path %}
