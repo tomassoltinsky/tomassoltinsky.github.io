@@ -19,6 +19,6 @@ Currently, I am one of the organizers of the State of the Universe ([SOTU](https
 
 ## Some articles:
 
-[Prednáška Tomáša Šoltinského](https://www.gphmi.sk/2019/07/prednaska-tomasa-soltinskeho/){:target="_blank" rel="noopener"} at Gymnazium Pavla Horova (Lecture of Tomáš Šoltinský)
+[Prednáška Tomáša Šoltinského](https://www.gphmi.sk/2019/07/prednaska-tomasa-soltinskeho/){:target="_blank" rel="noopener"} (Lecture of Tomáš Šoltinský) at Gymnazium Pavla Horova
 
-[Študoval tam, kde sa kopia nobelovky. A na skúškach sa nepodvádza](https://www.forbes.sk/studoval-tam-kde-sa-kopia-nobelovky-na-skuskach-sa-nepodvadza/){:target="_blank" rel="noopener"} for Forbes.sk (He studied where Nobel prizes gather. And you do not cheat on exams)
+[Študoval tam, kde sa kopia nobelovky. A na skúškach sa nepodvádza](https://www.forbes.sk/studoval-tam-kde-sa-kopia-nobelovky-na-skuskach-sa-nepodvadza/){:target="_blank" rel="noopener"} (He studied where Nobel prizes gather. And you do not cheat on exams) for Forbes.sk
