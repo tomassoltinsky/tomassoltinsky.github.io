@@ -11,7 +11,7 @@ redirect_from:
 
 Here you can find compilations of observational data from the Epoch of Reionization.
 
-## Radio-loud quasars at $$z>5.5$$
+## Radio-loud quasars at $$z>5.5$$ - currently 32 confirmed
 
 | Quasar name      | $$z$$ | $$S_{147}/\rm mJy$$ | $$\alpha_{\rm R}$$ | Reference |
 | ---------------- | ----- | ------------------- | ------------------ | --------- |
@@ -41,10 +41,12 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | J0002+2550       | 5.80  | 1.29                | -1.60              |	[Fan et al. 2004](https://ui.adsabs.harvard.edu/abs/2004AJ....128..515F/abstract){:target="_blank" rel="noopener"}, [Gloudemans et al. 2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
 | J1545+6028       | 5.78  | 0.86                | -0.79              | [Wang et al. 2016](https://ui.adsabs.harvard.edu/abs/2016ApJ...819...24W/abstract){:target="_blank" rel="noopener"}, [Gloudemans et al. 2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
 | ILTJ1523+2935    | 5.74  | 1.30                | -0.38              | [Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"} |
+| J2020-6215    | 5.72  |                 |              | [Wolf et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240605118W/abstract){:target="_blank" rel="noopener"} |
 | P207+37          | 5.69  | 0.485               | -0.04              | [Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"}, [Bañados et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...29B/abstract){:target="_blank" rel="noopener"} |
 | PSO J055-00	     | 5.68  |                     | -0.75              | [Bañados et al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...804..118B/abstract){:target="_blank" rel="noopener"} |
 | PSO J135+16      | 5.63  |                     | -0.75              |	[Bañados et al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...804..118B/abstract){:target="_blank" rel="noopener"} |
 | ILTJ0912+6658    | 5.62  | 1.22                | -0.23              |	[Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"}, [2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
+| J0209-5626    | 5.61  |                 |              | [Wolf et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240605118W/abstract){:target="_blank" rel="noopener"} |
 
 <p align="center">
   <img alt="RLQSO_zdist" src="/images/RLQSO_zdist.png" width="45%">
