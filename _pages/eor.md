@@ -128,8 +128,9 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | $$7.09$$ | $$0.48^{+0.26,+0.47}_{-0.26,-0.46}$$* | Damping wing |	[Davies et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...864..142D/abstract){:target="_blank" rel="noopener"} |
 | $$7.00$$ | $$0.59^{+0.11}_{-0.15}$$              | Ly$$\alpha$$ emitting galaxies | [Mason et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...856....2M/abstract){:target="_blank" rel="noopener"} |
 | $$7.08$$ | $$0.40^{+0.21,+0.41}_{-0.19,-0.32}$$* | Damping wing |	[Greig et al. 2017](https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.4239G/abstract){:target="_blank" rel="noopener"} |
-| $$5.90$$ | $$<0.06$$ | Dark gaps | [McGreer et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447..499M/abstract){:target="_blank" rel="noopener"} |
-| $$5.60$$ | $$<0.04$$ | Dark gaps | [McGreer et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447..499M/abstract){:target="_blank" rel="noopener"} |
+| $$6.10$$ | $$<0.37$$ | Dark pixel fraction | [McGreer et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447..499M/abstract){:target="_blank" rel="noopener"} |
+| $$5.90$$ | $$<0.06$$ | Dark pixel fraction | [McGreer et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447..499M/abstract){:target="_blank" rel="noopener"} |
+| $$5.60$$ | $$<0.04$$ | Dark pixel fraction | [McGreer et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447..499M/abstract){:target="_blank" rel="noopener"} |
 
 The uncertainties come from the 68th percentiles. However there are some exceptions: <br/>
 $$*$$ the first uncertainty comes from the 68th percentile while the second value comes from the 95th percentile. <br/>
