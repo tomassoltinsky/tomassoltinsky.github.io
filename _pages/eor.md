@@ -114,6 +114,9 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | $$6.90$$ | $$<0.33$$ | Ly$$\alpha$$ emitting galaxies | [Wold et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...36W/abstract){:target="_blank" rel="noopener"} |
 | $$7.29$$ | $$0.49\pm0.11$$  | Damping wing | [Greig et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5390G/abstract){:target="_blank" rel="noopener"} |
 | $$7.60\pm0.6$$ | $$0.83^{+0.08}_{-0.11}$$         | Lyman break galaxies | [Bolan et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.3263B/abstract){:target="_blank" rel="noopener"} |
+| $$5.95\pm0.2$$ | $$<0.29$$ | Dark gaps |	[Zhu et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...76Z/abstract){:target="_blank" rel="noopener"} |
+| $$5.75\pm0.2$$ | $$<0.17$$ | Dark gaps |	[Zhu et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...76Z/abstract){:target="_blank" rel="noopener"} |
+| $$5.55\pm0.2$$ | $$<0.05$$ | Dark gaps |	[Zhu et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...76Z/abstract){:target="_blank" rel="noopener"} |
 | $$6.70\pm0.2$$ | $$<0.25$$ | Lyman break galaxies |	[Bolan et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.3263B/abstract){:target="_blank" rel="noopener"} |
 | $$7.30$$ | $$>0.28$$ | Ly$$\alpha$$ emitting galaxies | [Goto et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..229G/abstract){:target="_blank" rel="noopener"} |
 | $$7.30$$ | $$0.69\pm0.11$$ | Ly$$\alpha$$ emitting galaxies | [Morales et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...919..120M/abstract){:target="_blank" rel="noopener"} |
