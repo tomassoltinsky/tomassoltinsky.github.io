@@ -46,9 +46,9 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | PSO J055-00	  | 5.68  |                     | -0.75              | [Bañados et al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...804..118B/abstract){:target="_blank" rel="noopener"} |
 | PSO J135+16   | 5.63  |                     | -0.75              |	[Bañados et al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...804..118B/abstract){:target="_blank" rel="noopener"} |
 | ILTJ0912+6658 | 5.62  | 1.22                | -0.23              |	[Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"}, [2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
-| DES J0209-56  | 5.61  | 29.5                | -0.27              | [Wolf et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240605118W/abstract){:target="_blank" rel="noopener"}, [Ighina et al. 2024](https://arxiv.org/abs/2407.04094){:target="_blank" rel="noopener"} |
-| PS J1011-01   | 5.58  | 7.46                | -0.40              | [Ighina et al. 2024](https://arxiv.org/abs/2407.04094){:target="_blank" rel="noopener"} |
-| PS J0202-17   | 5.57  | 43.16               | -0.65              | [Ighina et al. 2024](https://arxiv.org/abs/2407.04094){:target="_blank" rel="noopener"} |
+| DES J0209-56  | 5.61  | 29.5                | -0.27              | [Wolf et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240605118W/abstract){:target="_blank" rel="noopener"}, [Ighina et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704094I/abstract){:target="_blank" rel="noopener"} |
+| PS J1011-01   | 5.58  | 7.46                | -0.40              | [Ighina et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704094I/abstract){:target="_blank" rel="noopener"} |
+| PS J0202-17   | 5.57  | 43.16               | -0.65              | [Ighina et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704094I/abstract){:target="_blank" rel="noopener"} |
 
 <p align="center">
   <img alt="RLQSO_zdist" src="/images/RLQSO_zdist.png" width="45%">
