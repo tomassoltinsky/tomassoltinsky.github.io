@@ -15,6 +15,7 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 
 | Quasar name      | $$z$$ | $$S_{147}/\rm mJy$$ | $$\alpha_{\rm R}$$ | Reference |
 | ---------------- | ----- | ------------------- | ------------------ | --------- |
+| COS-87259        | 7.00  | 3.5                 | 0.21               | [Bañados et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240707236B/abstract){:target="_blank" rel="noopener"} |
 | COS-87259        | 6.85  | 0.475               | -0.86              | [Endsley et al. 2022](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4609E/abstract){:target="_blank" rel="noopener"} |
 | PSO J172+18      | 6.82  | <8.5                | -1.31              | [Bañados et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...909...80B/abstract){:target="_blank" rel="noopener"} |
 | ILTJ2336+1842    | 6.60  | 1.38                | -1.22              | [Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"}, [2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
@@ -26,8 +27,7 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | DES J0320-35     | 6.13	 | <12.2               | -1.04              |	[Ighina et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.2060I/abstract){:target="_blank" rel="noopener"} |
 | J1427+3312       | 6.12	 |                     | -0.94              |	[Mcgreer et al. 2006](https://ui.adsabs.harvard.edu/abs/2006ApJ...652..157M/abstract){:target="_blank" rel="noopener"},	[Shao et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A.159S/abstract){:target="_blank" rel="noopener"} |	
 | PSO J0309+27     | 6.10  | 64.2                | -0.44	            | [Belladitta et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...635L...7B/abstract){:target="_blank" rel="noopener"}, [Gloudemans et al. 2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
-| P050-18          | 6.09	 |                     |                    | [Bañados et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...29B/abstract){:target="_blank" rel="noopener"} |
-| DES J0322-18     | 6.09	 | <6.3                | -0.61              | [Ighina et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.2060I/abstract){:target="_blank" rel="noopener"} |
+| DES J0322-18     | 6.09	 | <6.3                | -0.61              | [Ighina et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.2060I/abstract){:target="_blank" rel="noopener"}, [Bañados et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...29B/abstract){:target="_blank" rel="noopener"} |
 | ILTJ1037+4033    | 6.07  | 8.17	               | 0.06	              | [Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"}, [2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
 | ILTJ1650+5457	   | 6.06  | 0.6                 |                    |	[Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"} |
 | P182+53          | 5.99  | 0.241               | 0.26               |	[Bañados et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...29B/abstract){:target="_blank" rel="noopener"} |
@@ -145,4 +145,4 @@ The excel file containing this data can be accessed <a href="https://tomassoltin
 
 If you know about any data that would be appropriate to add here, please do not hesitate to let me know! Thank you!
 
-Last website update - 08.07.2024
+Last website update - 22.07.2024
