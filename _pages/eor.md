@@ -84,9 +84,9 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 
 | $$z$$ | $$x_{\rm HI}$$ | Method | Reference |
 | ----- | -------------- | ------ | --------- |
-| 10.00-13.30 | $$0.89^{+0.08}_{-0.21}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
-| 8.00-10.00 | $$0.81^{+0.12}_{-0.24}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
-| 6.50-8.00 | $$0.48^{+0.15}_{-0.22}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
+| $$10.00-13.30$$ | $$0.89^{+0.08}_{-0.21}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
+| $$8.00-10.00$$ | $$0.81^{+0.12}_{-0.24}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
+| $$6.50-8.00$$ | $$0.48^{+0.15}_{-0.22}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
 | $$6.55\pm0.05$$ | $$<0.18$$	               | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
 | $$6.35\pm0.05$$ | $$0.29^{+0.14}_{-0.13}$$ | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
 | $$6.15\pm0.05$$ | $$0.20^{+0.14}_{-0.12}$$ | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
