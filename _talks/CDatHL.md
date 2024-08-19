@@ -9,3 +9,5 @@ location: "Stockholm, Sweden"
 ---
 
 [![CDatHL](/images/CDatHL.png)](https://youtu.be/RLxoEM3vy48){:target="_blank" rel="noopener"}
+
+Conference website can be found [here](https://indico.fysik.su.se/event/8499/){:target="_blank" rel="noopener"}.
