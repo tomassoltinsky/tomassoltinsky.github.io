@@ -8,6 +8,6 @@ date: 2024-03-21
 location: "Les Diablerets, Switzerland"
 ---
 
-[![CosmoinAlps](/images/cosmoinalps.png)](https://indico.skatelescope.org/event/1098/contributions/10401/attachments/9488/16765/Soltinsky.mp4){:target="_blank" rel="noopener"}
+[![CosmoinAlps](/images/CosmoinAlps.png)](https://indico.skatelescope.org/event/1098/contributions/10401/attachments/9488/16765/Soltinsky.mp4){:target="_blank" rel="noopener"}
 
 Conference website can be found [here](https://indico.skatelescope.org/event/1098/){:target="_blank" rel="noopener"}.
