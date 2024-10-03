@@ -2,7 +2,7 @@
 title: "Prospects of a statistical detection of the 21-cm forest and its potential to constrain the cosmic heating and reionization history"
 collection: talks
 type: "Conference talk"
-permalink: /talks/CDatHL
+permalink: /talks/CosmoinAlps
 venue: "Cosmology in the Alps Conference"
 date: 2024-03-21
 location: "Les Diablerets, Switzerland"
