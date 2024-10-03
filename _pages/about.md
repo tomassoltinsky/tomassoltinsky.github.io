@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow in in the field of Astrophysics/Cosmology at the Istituto Nazionale di Astrofisica - Osservatorio Astronomico di Trieste ([INAF-OATs](https://www.oats.inaf.it/index.php/en/){:target="_blank" rel="noopener"}). Previously, I held a postdoctoral fellowship at the Tata Institute of Fundamental Research ([TIFR](https://www.tifr.res.in/){:target="_blank" rel="noopener"}) in the group of [Girish Kulkarni](https://theory.tifr.res.in/~kulkarni/){:target="_blank" rel="noopener"}. I did my PhD at the [University of Nottingham](https://www.nottingham.ac.uk/astronomy/){:target="_blank" rel="noopener"} mentored by [James Bolton](https://www.nottingham.ac.uk/~ppzjsb/){:target="_blank" rel="noopener"} and [Nina Hatch](https://www.nottingham.ac.uk/astronomy/NottICL/){:target="_blank" rel="noopener"}.
+I am a postdoctoral research grant holder in the field of Astrophysics/Cosmology at the Istituto Nazionale di Astrofisica - Osservatorio Astronomico di Trieste ([INAF-OATs](https://www.oats.inaf.it/index.php/en/){:target="_blank" rel="noopener"}). Previously, I held a postdoctoral fellowship at the Tata Institute of Fundamental Research ([TIFR](https://www.tifr.res.in/){:target="_blank" rel="noopener"}) in the group of [Girish Kulkarni](https://theory.tifr.res.in/~kulkarni/){:target="_blank" rel="noopener"}. I did my PhD at the [University of Nottingham](https://www.nottingham.ac.uk/astronomy/){:target="_blank" rel="noopener"} mentored by [James Bolton](https://www.nottingham.ac.uk/~ppzjsb/){:target="_blank" rel="noopener"} and [Nina Hatch](https://www.nottingham.ac.uk/astronomy/NottICL/){:target="_blank" rel="noopener"}.
 
 ![sherwood_IGM_up](/images/sherwood_igm_up.png)
 
