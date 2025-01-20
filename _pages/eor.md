@@ -84,6 +84,10 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 
 | $$z$$ | $$x_{\rm HI}$$ | Method | Reference |
 | ----- | -------------- | ------ | --------- |
+| $$11.00^{+3.18}_{-1.38}$$ | $$0.88^{+0.11}_{-0.13}$$ | Ly$$\alpha$$ equivalent widths | [Kageura et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250105834K/abstract){:target="_blank" rel="noopener"} |
+| $$8.41^{+1.02}_{-0.90}$$ | $$0.79^{+0.13}_{-0.21}$$ | Ly$$\alpha$$ equivalent widths | [Kageura et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250105834K/abstract){:target="_blank" rel="noopener"} |
+| $$6.96^{+0.53}_{-0.42}$$ | $$0.63^{+0.18}_{-0.28}$$ | Ly$$\alpha$$ equivalent widths | [Kageura et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250105834K/abstract){:target="_blank" rel="noopener"} |
+| $$5.90^{+0.49}_{-0.40}$$ | $$0.17^{+0.23}_{-0.16}$$ | Ly$$\alpha$$ equivalent widths | [Kageura et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250105834K/abstract){:target="_blank" rel="noopener"} |
 | $$10.00-13.30$$ | $$0.89^{+0.08}_{-0.21}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
 | $$8.00-10.00$$ | $$0.81^{+0.12}_{-0.24}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
 | $$6.50-8.00$$ | $$0.48^{+0.15}_{-0.22}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
@@ -148,4 +152,4 @@ The excel file containing this data can be accessed <a href="https://tomassoltin
 
 If you know about any data that would be appropriate to add here, please do not hesitate to let me know! Thank you!
 
-Last website update - 19.08.2024
+Last website update - 20.01.2025
