@@ -84,23 +84,33 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 
 | $$z$$ | $$x_{\rm HI}$$ | Method | Reference |
 | ----- | -------------- | ------ | --------- |
+| $$9.30\pm1.30$$ | $$0.64^{+0.07}_{-0.13}$$ | Damping wing | [Mason et al. 2025](https://ui.adsabs.harvard.edu/abs/arXiv:2501.11702){:target="_blank" rel="noopener"} |
+| $$6.50^{+1.50}_{-1.00}$$ | $$0.33^{+0.08}_{-0.17}$$ | Damping wing | [Mason et al. 2025](https://ui.adsabs.harvard.edu/abs/arXiv:2501.11702){:target="_blank" rel="noopener"} |
 | $$11.00^{+3.18}_{-1.38}$$ | $$0.88^{+0.11}_{-0.13}$$ | Ly$$\alpha$$ equivalent widths | [Kageura et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250105834K/abstract){:target="_blank" rel="noopener"} |
 | $$8.41^{+1.02}_{-0.90}$$ | $$0.79^{+0.13}_{-0.21}$$ | Ly$$\alpha$$ equivalent widths | [Kageura et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250105834K/abstract){:target="_blank" rel="noopener"} |
 | $$6.96^{+0.53}_{-0.42}$$ | $$0.63^{+0.18}_{-0.28}$$ | Ly$$\alpha$$ equivalent widths | [Kageura et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250105834K/abstract){:target="_blank" rel="noopener"} |
 | $$5.90^{+0.49}_{-0.40}$$ | $$0.17^{+0.23}_{-0.16}$$ | Ly$$\alpha$$ equivalent widths | [Kageura et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250105834K/abstract){:target="_blank" rel="noopener"} |
+| $$7.00$$ | $$0.64^{+0.13}_{-0.21}$$ | Ly$$\alpha$$ equivalent widths | [Jones et al. 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2355J/abstract){:target="_blank" rel="noopener"} |
+| $$6.30$$ | $$<0.15$$                | Damping wing in GRB | [Fausey et al. 2025](https://ui.adsabs.harvard.edu/abs/2024arXiv240313126F/abstract){:target="_blank" rel="noopener"} |
 | $$10.00-13.30$$ | $$0.89^{+0.08}_{-0.21}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
 | $$8.00-10.00$$ | $$0.81^{+0.12}_{-0.24}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
 | $$6.50-8.00$$ | $$0.48^{+0.15}_{-0.22}$$ | Ly$$\alpha$$ equivalent widths | [Tang et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240801507T/abstract){:target="_blank" rel="noopener"} |
+| $$9.80^{+1.60}_{-1.16}$$ | $$0.83^{+0.12}_{-0.21}$$ | Damping wing | [Umeda et al. 2024](https://ui.adsabs.harvard.edu/abs/2023arXiv230600487U/abstract){:target="_blank" rel="noopener"} |
+| $$7.96^{+0.59}_{-0.28}$$ | $$0.63^{+0.26}_{-0.36}$$ | Damping wing | [Umeda et al. 2024](https://ui.adsabs.harvard.edu/abs/2023arXiv230600487U/abstract){:target="_blank" rel="noopener"} |
+| $$7.45^{+0.10}_{-0.25}$$ | $$0.54^{+0.32}_{-0.36}$$ | Damping wing | [Umeda et al. 2024](https://ui.adsabs.harvard.edu/abs/2023arXiv230600487U/abstract){:target="_blank" rel="noopener"} |
+| $$7.14^{+0.04}_{-0.08}$$ | $$0.46^{+0.36}_{-0.32}$$ | Damping wing | [Umeda et al. 2024](https://ui.adsabs.harvard.edu/abs/2023arXiv230600487U/abstract){:target="_blank" rel="noopener"} |
+| $$6.87$$ | $$0.37\pm0.17$$                 | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
+| $$6.46$$ | $$0.21^{+0.33}_{-0.07}$$        | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
+| $$6.10$$ | $$0.21^{+0.17}_{-0.07}$$        | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
 | $$6.55\pm0.05$$ | $$<0.18$$	               | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
 | $$6.35\pm0.05$$ | $$0.29^{+0.14}_{-0.13}$$ | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
 | $$6.15\pm0.05$$ | $$0.20^{+0.14}_{-0.12}$$ | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
 | $$6.05\pm0.05$$ | $$<0.21$$                | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
 | $$5.95\pm0.05$$ | $$<0.20$$	               | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
 | $$5.90\pm0.05$$ | $$<0.21$$	               | Damping wing | [Greig et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3208G/abstract){:target="_blank" rel="noopener"} |
-| $$6.30$$ | $$<0.15$$                | Damping wing in GRB | [Fausey et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240313126F/abstract){:target="_blank" rel="noopener"} |
-| $$6.87$$ | $$0.37\pm0.17$$                 | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
-| $$6.46$$ | $$0.21^{+0.33}_{-0.07}$$        | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
-| $$6.10$$ | $$0.21^{+0.17}_{-0.07}$$        | Damping wing | [Ďurovčíková et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240110328D/abstract){:target="_blank" rel="noopener"} |
+| $$9.00-13.00$$ | $$0.93^{+0.04}_{-0.07}$$ | Ly$$\alpha$$ equivalent widths | [Nakane et al. 2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...967...28N/abstract){:target="_blank" rel="noopener"} |
+| $$8.00$$ | $$0.62^{+0.15}_{-0.36}$$ | Ly$$\alpha$$ equivalent widths | [Nakane et al. 2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...967...28N/abstract){:target="_blank" rel="noopener"} |
+| $$7.00$$ | $$<0.79$$ | Ly$$\alpha$$ equivalent widths | [Nakane et al. 2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...967...28N/abstract){:target="_blank" rel="noopener"} |
 | $$6.00\pm0.05$$ | $$0.17^{+0.09}_{-0.11}$$ | CDF of Ly$$\alpha$$ effective optical depth | [Gaikwad et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4093G/abstract){:target="_blank" rel="noopener"} |
 | $$5.90\pm0.05$$ | $$0.13^{+0.13}_{-0.07}$$ | CDF of Ly$$\alpha$$ effective optical depth | [Gaikwad et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4093G/abstract){:target="_blank" rel="noopener"} |
 | $$5.80\pm0.05$$ | $$0.94^{+0.62}_{-0.64}\times10^{-1}$$ | CDF of Ly$$\alpha$$ effective optical depth | [Gaikwad et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4093G/abstract){:target="_blank" rel="noopener"} |
@@ -112,10 +122,6 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | $$5.20\pm0.05$$ | $$0.28^{+0.08}_{-0.06}\times10^{-4}$$ | CDF of Ly$$\alpha$$ effective optical depth |	[Gaikwad et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4093G/abstract){:target="_blank" rel="noopener"} |
 | $$5.10\pm0.05$$ | $$0.27^{+0.13}_{-0.06}\times10^{-4}$$ | CDF of Ly$$\alpha$$ effective optical depth |	[Gaikwad et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4093G/abstract){:target="_blank" rel="noopener"} |
 | $$5.00\pm0.05$$ | $$0.23^{+0.08}_{-0.04}\times10^{-4}$$ | CDF of Ly$$\alpha$$ effective optical depth |	[Gaikwad et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4093G/abstract){:target="_blank" rel="noopener"} |
-| $$9.80^{+1.60}_{-1.16}$$ | $$0.83^{+0.12}_{-0.21}$$ | Damping wing | [Umeda et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230600487U/abstract){:target="_blank" rel="noopener"} |
-| $$7.96^{+0.59}_{-0.28}$$ | $$0.63^{+0.26}_{-0.36}$$ | Damping wing | [Umeda et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230600487U/abstract){:target="_blank" rel="noopener"} |
-| $$7.45^{+0.10}_{-0.25}$$ | $$0.54^{+0.32}_{-0.36}$$ | Damping wing | [Umeda et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230600487U/abstract){:target="_blank" rel="noopener"} |
-| $$7.14^{+0.04}_{-0.08}$$ | $$0.46^{+0.36}_{-0.32}$$ | Damping wing | [Umeda et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230600487U/abstract){:target="_blank" rel="noopener"} |
 | $$10.60$$ | $$<0.88$$ | Ly$$\alpha$$ equivalent widths | [Bruton et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...949L..40B/abstract){:target="_blank" rel="noopener"} |
 | $$6.70$$ | $$<0.94\pm0.06$$ |	Dark pixel fraction | [Jin et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...59J/abstract){:target="_blank" rel="noopener"} |
 | $$6.50$$ | $$<0.87\pm0.03$$ |	Dark pixel fraction | [Jin et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...59J/abstract){:target="_blank" rel="noopener"} |
@@ -152,4 +158,4 @@ The excel file containing this data can be accessed <a href="https://tomassoltin
 
 If you know about any data that would be appropriate to add here, please do not hesitate to let me know! Thank you!
 
-Last website update - 20.01.2025
+Last website update - 22.01.2025
