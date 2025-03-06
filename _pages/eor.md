@@ -50,6 +50,8 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | PS J1011-01   | 5.58  | 7.46                | -0.40              | [Ighina et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704094I/abstract){:target="_blank" rel="noopener"} |
 | PS J0202-17   | 5.57  | 43.16               | -0.65              | [Ighina et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704094I/abstract){:target="_blank" rel="noopener"} |
 
+If you find this compilation useful, please consider citing [Šoltinský et al. 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..364S/abstract){:target="_blank" rel="noopener"}.
+
 <p align="center">
   <img alt="RLQSO_zdist" src="/images/RLQSO_zdist.png" width="45%">
 &nbsp; 
@@ -158,4 +160,4 @@ The excel file containing this data can be accessed <a href="https://tomassoltin
 
 If you know about any data that would be appropriate to add here, please do not hesitate to let me know! Thank you!
 
-Last website update - 22.01.2025
+Last website update - 06.03.2025
