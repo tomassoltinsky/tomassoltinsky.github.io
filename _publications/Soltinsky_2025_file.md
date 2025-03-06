@@ -1,5 +1,5 @@
 ---
-title: "Probing quasar lifetimes with proximate 21-centimetre absorption in the diffuse intergalactic medium at redshifts z≥6"
+title: "Prospects of a statistical detection of the 21-cm forest and its potential to constrain the thermal state of the neutral IGM during reionization"
 collection: publications
 permalink: /publication/Soltinsky_2025_file
 excerpt: 'First author, [ads](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp...29S/abstract){:target="_blank" rel="noopener"}'
