@@ -86,6 +86,17 @@ If you find this compilation useful, please consider citing [Šoltinský et al. 
 
 | $$z$$ | $$x_{\rm HI}$$ | Method | Reference |
 | ----- | -------------- | ------ | --------- |
+| $$10.40$$ | $$1.00^{+0.00}_{-0.40}$$ | GP trough, Damping wing | [Umeda et al. 2025b](https://ui.adsabs.harvard.edu/abs/2025arXiv250404683U/abstract){:target="_blank" rel="noopener"} |
+| $$8.60$$ | $$1.00^{+0.00}_{-0.20}$$ | GP trough, Damping wing | [Umeda et al. 2025b](https://ui.adsabs.harvard.edu/abs/2025arXiv250404683U/abstract){:target="_blank" rel="noopener"} |
+| $$7.00$$ | $$0.65^{+0.27}_{-0.35}$$ | GP trough, Damping wing | [Umeda et al. 2025b](https://ui.adsabs.harvard.edu/abs/2025arXiv250404683U/abstract){:target="_blank" rel="noopener"} |
+| $$5.80$$ | $$0.25^{+0.10}_{-0.20}$$ | GP trough, Damping wing | [Umeda et al. 2025b](https://ui.adsabs.harvard.edu/abs/2025arXiv250404683U/abstract){:target="_blank" rel="noopener"} |
+| $$5.00$$ | $$0.00^{+0.12}_{-0.00}$$ | GP trough, Damping wing | [Umeda et al. 2025b](https://ui.adsabs.harvard.edu/abs/2025arXiv250404683U/abstract){:target="_blank" rel="noopener"} |
+| $$7.30$$ | $$0.75^{+0.09}_{-0.13}$$ | Ly$$\alpha$$ luminosity function | [Umeda et al. 2025a](https://ui.adsabs.harvard.edu/abs/2025ApJS..277...37U/abstract){:target="_blank" rel="noopener"} |
+| $$7.00$$ | $$0.18^{+0.14}_{-0.12}$$ | Ly$$\alpha$$ luminosity function | [Umeda et al. 2025a](https://ui.adsabs.harvard.edu/abs/2025ApJS..277...37U/abstract){:target="_blank" rel="noopener"} |
+| $$6.60$$ | $$0.21^{+0.19}_{-0.14}$$ | Angular coorrelation function | [Umeda et al. 2025a](https://ui.adsabs.harvard.edu/abs/2025ApJS..277...37U/abstract){:target="_blank" rel="noopener"} |
+| $$6.60$$ | $$0.15^{+0.10}_{-0.08}$$ | Ly$$\alpha$$ luminosity function | [Umeda et al. 2025a](https://ui.adsabs.harvard.edu/abs/2025ApJS..277...37U/abstract){:target="_blank" rel="noopener"} |
+| $$5.70$$ | $$0.06^{+0.12}_{-0.03}$$ | Angular coorrelation function | [Umeda et al. 2025a](https://ui.adsabs.harvard.edu/abs/2025ApJS..277...37U/abstract){:target="_blank" rel="noopener"} |
+| $$5.70$$ | $$<0.05$$ | Ly$$\alpha$$ luminosity function | [Umeda et al. 2025a](https://ui.adsabs.harvard.edu/abs/2025ApJS..277...37U/abstract){:target="_blank" rel="noopener"} |
 | $$9.30\pm1.30$$ | $$0.64^{+0.07}_{-0.13}$$ | Damping wing | [Mason et al. 2025](https://ui.adsabs.harvard.edu/abs/arXiv:2501.11702){:target="_blank" rel="noopener"} |
 | $$6.50^{+1.50}_{-1.00}$$ | $$0.33^{+0.08}_{-0.17}$$ | Damping wing | [Mason et al. 2025](https://ui.adsabs.harvard.edu/abs/arXiv:2501.11702){:target="_blank" rel="noopener"} |
 | $$11.00^{+3.18}_{-1.38}$$ | $$0.88^{+0.11}_{-0.13}$$ | Ly$$\alpha$$ equivalent widths | [Kageura et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250105834K/abstract){:target="_blank" rel="noopener"} |
@@ -160,4 +171,4 @@ The excel file containing this data can be accessed <a href="https://tomassoltin
 
 If you know about any data that would be appropriate to add here, please do not hesitate to let me know! Thank you!
 
-Last website update - 06.03.2025
+Last website update - 05.05.2025
