@@ -11,7 +11,7 @@ redirect_from:
 
 Here you can find compilations of observational data from the Epoch of Reionization.
 
-## Radio-loud quasars at $$z>5.5$$ - currently 34 confirmed
+## Radio-loud sources at $$z>5.5$$ - currently 36 confirmed
 
 | Quasar name      | $$z$$ | $$S_{147}/\rm mJy$$ | $$\alpha_{\rm R}$$ | Reference |
 | ---------------- | ----- | ------------------- | ------------------ | --------- |
@@ -42,6 +42,7 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | J1545+6028       | 5.78  | 0.86                | -0.79              | [Wang et al. 2016](https://ui.adsabs.harvard.edu/abs/2016ApJ...819...24W/abstract){:target="_blank" rel="noopener"}, [Gloudemans et al. 2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
 | ILT J1523+2935   | 5.74  | 1.30                | -0.38              | [Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"} |
 | J2020-6215    | 5.72  |                 |              | [Wolf et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240605118W/abstract){:target="_blank" rel="noopener"} |
+| J1530+1049*   | 5.72  | 174.88              | -1.40              | [Saxena et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.2733S/abstract){:target="_blank" rel="noopener"} |
 | P207+37       | 5.69  | 0.485               | -0.04              | [Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"}, [Bañados et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...29B/abstract){:target="_blank" rel="noopener"} |
 | PSO J055-00	  | 5.68  |                     | -0.75              | [Bañados et al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...804..118B/abstract){:target="_blank" rel="noopener"} |
 | PSO J135+16   | 5.63  |                     | -0.75              |	[Bañados et al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...804..118B/abstract){:target="_blank" rel="noopener"} |
@@ -49,7 +50,9 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | DES J0209-56  | 5.61  | 29.5                | -0.27              | [Wolf et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240605118W/abstract){:target="_blank" rel="noopener"}, [Ighina et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704094I/abstract){:target="_blank" rel="noopener"} |
 | PS J1011-01   | 5.58  | 7.46                | -0.40              | [Ighina et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704094I/abstract){:target="_blank" rel="noopener"} |
 | PS J0202-17   | 5.57  | 43.16               | -0.65              | [Ighina et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704094I/abstract){:target="_blank" rel="noopener"} |
+| J0856+0224*   | 5.55  | 899.82              | -1.18              | [Drouart et al. 2020](https://ui.adsabs.harvard.edu/abs/2020PASA...37...26D/abstract){:target="_blank" rel="noopener"} |
 
+$$*$$ corresponds to a radio galaxy while others to radio-loud quasars. <br/>
 If you find this compilation useful, please consider citing [Šoltinský et al. 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..364S/abstract){:target="_blank" rel="noopener"}.
 
 <p align="center">
