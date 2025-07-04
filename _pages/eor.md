@@ -11,7 +11,7 @@ redirect_from:
 
 Here you can find compilations of observational data from the Epoch of Reionization.
 
-## Radio-loud sources at $$z>5.5$$ - currently 36 confirmed
+## Radio-loud sources at $$z>5.5$$ - currently 36 confirmed (34 of which are radio-loud quasars)
 
 | Quasar name      | $$z$$ | $$S_{147}/\rm mJy$$ | $$\alpha_{\rm R}$$ | Reference |
 | ---------------- | ----- | ------------------- | ------------------ | --------- |
