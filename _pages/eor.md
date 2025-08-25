@@ -68,6 +68,11 @@ If you find this compilation useful, please consider citing [Šoltinský et al. 
 
 | $$z$$ | $$T(\rm gas\, kinetic)/\rm K$$ | $$T(\rm spin)/\rm K$$ | Method | Reference |
 | ----- | ---------------------------- | --------------------- | -------| --------- |
+| $$15.0$$ | $$5.0-7.7$$   | $$6.4-33.9$$  | Cosmic X-ray background, UV luminosity function, 21-cm power spectrum | [Dhandha et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250813761D/abstract){:target="_blank" rel="noopener"} |
+| $$12.5$$ | $$3.6-16.0$$   | $$4.5-19.0$$  | Cosmic X-ray background, UV luminosity function, 21-cm power spectrum | [Dhandha et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250813761D/abstract){:target="_blank" rel="noopener"} |
+| $$10.0$$ | $$2.5-66.2$$   | $$3.1-73.3$$  | Cosmic X-ray background, UV luminosity function, 21-cm power spectrum | [Dhandha et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250813761D/abstract){:target="_blank" rel="noopener"} |
+| $$8.0$$ | $$3.7-349.5$$   | $$4.3-359.2$$  | Cosmic X-ray background, UV luminosity function, 21-cm power spectrum | [Dhandha et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250813761D/abstract){:target="_blank" rel="noopener"} |
+| $$6.0$$ | $$19.8-2077.9$$   | $$19.0-1258.1$$  | Cosmic X-ray background, UV luminosity function, 21-cm power spectrum | [Dhandha et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250813761D/abstract){:target="_blank" rel="noopener"} |
 | $$10.4$$ | $$3.2-313.2$$   | $$4.7-171.2$$  | 21-cm power spectrum | [HERA 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..124H/abstract){:target="_blank" rel="noopener"} |
 | $$7.9$$ | $$13.0-4768.0$$ | $$15.6-656.7$$	| 21-cm power spectrum | [HERA 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..124H/abstract){:target="_blank" rel="noopener"} |
 | $$9.1$$	|	| $$>2.6$$ | 21-cm power spectrum | [Greig et al. 2021a](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501....1G/abstract){:target="_blank" rel="noopener"} |
