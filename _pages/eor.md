@@ -11,7 +11,7 @@ redirect_from:
 
 Here you can find compilations of observational data from the Epoch of Reionization.
 
-## Radio-loud sources at $$z>5.5$$ - currently 36 confirmed (34 of which are radio-loud quasars)
+## Radio-loud sources at $$z>5.5$$ - currently 34 radio-loud quasars + 1 radio galaxy
 
 | Quasar name      | $$z$$ | $$S_{147}/\rm mJy$$ | $$\alpha_{\rm R}$$ | Reference |
 | ---------------- | ----- | ------------------- | ------------------ | --------- |
@@ -42,7 +42,6 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | J1545+6028       | 5.78  | 0.86                | -0.79              | [Wang et al. 2016](https://ui.adsabs.harvard.edu/abs/2016ApJ...819...24W/abstract){:target="_blank" rel="noopener"}, [Gloudemans et al. 2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
 | ILT J1523+2935   | 5.74  | 1.30                | -0.38              | [Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"} |
 | J2020-6215    | 5.72  |                 |              | [Wolf et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240605118W/abstract){:target="_blank" rel="noopener"} |
-| J1530+1049*   | 5.72  | 174.88              | -1.40              | [Saxena et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.2733S/abstract){:target="_blank" rel="noopener"} |
 | P207+37       | 5.69  | 0.485               | -0.04              | [Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"}, [Bañados et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...29B/abstract){:target="_blank" rel="noopener"} |
 | PSO J055-00	  | 5.68  |                     | -0.75              | [Bañados et al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...804..118B/abstract){:target="_blank" rel="noopener"} |
 | PSO J135+16   | 5.63  |                     | -0.75              |	[Bañados et al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...804..118B/abstract){:target="_blank" rel="noopener"} |
@@ -179,4 +178,4 @@ The excel file containing this data can be accessed <a href="https://tomassoltin
 
 If you know about any data that would be appropriate to add here, please do not hesitate to let me know! Thank you!
 
-Last website update - 25.08.2025
+Last website update - 29.09.2025
