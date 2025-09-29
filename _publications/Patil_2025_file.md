@@ -1,7 +1,7 @@
 ---
 title: "Efficient neutral-IGM inference from noisy 21-cm forest spectra with latent-space U-Net encoding and XGBoost"
 collection: publications
-permalink: /publication/Soltinsky_2025_file
+permalink: /publication/Patil_2025_file
 excerpt: 'Coauthor, [ads](https://ui.adsabs.harvard.edu/abs/2025arXiv250711611P/abstract){:target="_blank" rel="noopener"}'
 date: 2025-7-15
 venue: 'arXiv'
