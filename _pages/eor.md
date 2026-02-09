@@ -11,7 +11,7 @@ redirect_from:
 
 Here you can find compilations of observational data from the Epoch of Reionization.
 
-## Radio-loud sources at $$z>5.5$$ - currently 34 radio-loud quasars + 1 radio galaxy
+## Radio-loud sources at $$z>5.5$$ - currently 34 radio-loud quasars + 2 radio galaxies
 
 | Quasar name      | $$z$$ | $$S_{147}/\rm mJy$$ | $$\alpha_{\rm R}$$ | Reference |
 | ---------------- | ----- | ------------------- | ------------------ | --------- |
@@ -50,6 +50,7 @@ Here you can find compilations of observational data from the Epoch of Reionizat
 | PS J1011-01   | 5.58  | 7.46                | -0.40              | [Ighina et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704094I/abstract){:target="_blank" rel="noopener"} |
 | PS J0202-17   | 5.57  | 43.16               | -0.65              | [Ighina et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240704094I/abstract){:target="_blank" rel="noopener"} |
 | J0856+0224*   | 5.55  | 899.82              | -1.18              | [Drouart et al. 2020](https://ui.adsabs.harvard.edu/abs/2020PASA...37...26D/abstract){:target="_blank" rel="noopener"} |
+| MGT J10000+02225*   | 5.54  |               | -1.68              | [Varadaraj et al. 2026](https://ui.adsabs.harvard.edu/abs/2026arXiv260205808V/abstract){:target="_blank" rel="noopener"} |
 
 $$*$$ corresponds to a radio galaxy while others to radio-loud quasars. <br/>
 If you find this compilation useful, please consider citing [Šoltinský et al. 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..364S/abstract){:target="_blank" rel="noopener"}.
@@ -178,4 +179,4 @@ The excel file containing this data can be accessed <a href="https://tomassoltin
 
 If you know about any data that would be appropriate to add here, please do not hesitate to let me know! Thank you!
 
-Last website update - 29.09.2025
+Last website update - 09.02.2026
