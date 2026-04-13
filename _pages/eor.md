@@ -94,9 +94,9 @@ If you find this compilation useful, please consider citing [Šoltinský et al. 
 
 | $$z$$ | $$x_{\rm HI}$$ | Method | Reference |
 | ----- | -------------- | ------ | --------- |
-| $$6.48$$ | $$0.23-0.25$$*** | Ly$$\alpha$$ effective optical depth, UV luminosity function, CMB optical depth | [Qin et al. 2025](https://ui.adsabs.harvard.edu/abs/2025PASA...42...49Q/abstract){:target="_blank" rel="noopener"} |
-| $$6.05$$ | $$0.12-0.14$$*** | Ly$$\alpha$$ effective optical depth, UV luminosity function, CMB optical depth | [Qin et al. 2025](https://ui.adsabs.harvard.edu/abs/2025PASA...42...49Q/abstract){:target="_blank" rel="noopener"} |
-| $$5.51$$ | $$0.01-0.02$$*** | Ly$$\alpha$$ effective optical depth, UV luminosity function, CMB optical depth | [Qin et al. 2025](https://ui.adsabs.harvard.edu/abs/2025PASA...42...49Q/abstract){:target="_blank" rel="noopener"} |
+| $$6.48$$ | $$0.23-0.25$$ | Ly$$\alpha$$ effective optical depth, UV luminosity function, CMB optical depth | [Qin et al. 2025](https://ui.adsabs.harvard.edu/abs/2025PASA...42...49Q/abstract){:target="_blank" rel="noopener"} |
+| $$6.05$$ | $$0.12-0.14$$ | Ly$$\alpha$$ effective optical depth, UV luminosity function, CMB optical depth | [Qin et al. 2025](https://ui.adsabs.harvard.edu/abs/2025PASA...42...49Q/abstract){:target="_blank" rel="noopener"} |
+| $$5.51$$ | $$0.01-0.02$$ | Ly$$\alpha$$ effective optical depth, UV luminosity function, CMB optical depth | [Qin et al. 2025](https://ui.adsabs.harvard.edu/abs/2025PASA...42...49Q/abstract){:target="_blank" rel="noopener"} |
 | $$10.40$$ | $$1.00^{+0.00}_{-0.40}$$ | GP trough, Damping wing | [Umeda et al. 2025b](https://ui.adsabs.harvard.edu/abs/2025arXiv250404683U/abstract){:target="_blank" rel="noopener"} |
 | $$8.60$$ | $$1.00^{+0.00}_{-0.20}$$ | GP trough, Damping wing | [Umeda et al. 2025b](https://ui.adsabs.harvard.edu/abs/2025arXiv250404683U/abstract){:target="_blank" rel="noopener"} |
 | $$7.00$$ | $$0.65^{+0.27}_{-0.35}$$ | GP trough, Damping wing | [Umeda et al. 2025b](https://ui.adsabs.harvard.edu/abs/2025arXiv250404683U/abstract){:target="_blank" rel="noopener"} |
@@ -177,7 +177,6 @@ If you find this compilation useful, please consider citing [Šoltinský et al. 
 The uncertainties come from the 68th percentiles. However there are some exceptions: <br/>
 $$*$$ the first uncertainty comes from the 68th percentile while the second value comes from the 95th percentile. <br/>
 $$**$$ the uncertainty comes from the 95th percentile. <br/>
-$$***$$ the range comes from the 68th percentile. <br/>
 The excel file containing this data can be accessed <a href="https://tomassoltinsky.github.io/datasets/xHI_EoR.xlsx" target="_blank">here</a>.
 
 
