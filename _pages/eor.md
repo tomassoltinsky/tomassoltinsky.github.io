@@ -11,13 +11,15 @@ redirect_from:
 
 Here you can find compilations of observational data from the Epoch of Reionization.
 
-## Radio-loud sources at $$z>5.5$$ - currently 34 radio-loud quasars + 2 radio galaxies
+## Radio-loud sources at $$z>5.5$$ - currently 36 radio-loud quasars + 2 radio galaxies
 
 | Quasar name      | $$z$$ | $$S_{147}/\rm mJy$$ | $$\alpha_{\rm R}$$ | RA (hh:mm:ss) | DEC            | Reference |
 | ---------------- | ----- | ------------------- | ------------------ | ------------- | -------------- | --------- |
-| J0410-0139       | 7.00  | 3.5                 | 0.21               | 04:10:09.05   |	-01°39'19.88'' | [Bañados et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240707236B/abstract){:target="_blank" rel="noopener"} |
+| J0410-0139       | 7.00  | 3.5                 | 0.21               | 04:10:09.05   |	-01°39'19.88'' | [Bañados et al. 2025](https://ui.adsabs.harvard.edu/abs/2024arXiv240707236B/abstract){:target="_blank" rel="noopener"} |
+| EUCL J0933       | 6.96  | 0.49                |                    | 09:33:30.60   |	+74°27'30.00'' | [Yang et al. 2026](https://ui.adsabs.harvard.edu/abs/2026arXiv260703432Y/abstract){:target="_blank" rel="noopener"} |
 | COS-87259        | 6.85  | 0.475               | -0.86              | 09:58:58.27	  | +01°39'20.02'' | [Endsley et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4609E/abstract){:target="_blank" rel="noopener"} |
 | PSO J172+18      | 6.82  | <8.5                | -1.31              | 11:29:24.08	  | +18°46'38.58'' | [Bañados et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...909...80B/abstract){:target="_blank" rel="noopener"} |
+| EUCL J0916       | 6.60  | 1.53                |                    | 09:16:39.93   |	+68°25'52.90'' | [Yang et al. 2026](https://ui.adsabs.harvard.edu/abs/2026arXiv260703432Y/abstract){:target="_blank" rel="noopener"} |
 | ILT J2336+1842   | 6.60  | 1.38                | -1.22              | 23:36:24.69	  | +18°42'48.71'' | [Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"}, [2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
 | VIK J2318-3113   | 6.44  | <7.0                | -0.98              | 23:18:18.30	  | -31°13'46.00'' | [Ighina et al. 2021](https://ui.adsabs.harvard.edu/abs/2021A%26A...647L..11I/abstract){:target="_blank" rel="noopener"} |
 | J0803+3138       | 6.38  | 1.27                | -1.12              | 08:03:05.42   |	+31°38'34.20'' | [Wang et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...884...30W/abstract){:target="_blank" rel="noopener"}, [Gloudemans et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..27G/abstract){:target="_blank" rel="noopener"}, [2023](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.128G/abstract){:target="_blank" rel="noopener"} |
@@ -182,4 +184,4 @@ The excel file containing this data can be accessed <a href="https://tomassoltin
 
 If you know about any data that would be appropriate to add here, please do not hesitate to let me know! Thank you!
 
-Last website update - 31.03.2026
+Last website update - 07.07.2026
