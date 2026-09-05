@@ -2,7 +2,7 @@
 title: "Forest without Trees is still Fruitful: Constraints on the thermal state of the neutral IGM at z≈5.6 with the 21-cm forest power spectrum"
 collection: publications
 permalink: /publication/Soltinsky_2026_21cm_file
-excerpt: 'Coauthor, [ads](https://ui.adsabs.harvard.edu/abs/2026arXiv260715341S/abstract){:target="_blank" rel="noopener"}'
+excerpt: 'First author, [ads](https://ui.adsabs.harvard.edu/abs/2026arXiv260715341S/abstract){:target="_blank" rel="noopener"}'
 date: 2026-7-15
 venue: 'arXiv'
 paperurl: 'http://tomassoltinsky.github.io/files/Soltinsky_2026_21cm.pdf'
